@@ -1,0 +1,1 @@
+FROM gcr.io/kaniko-project/executor:9912ccbf8d22bbafbf971124600fbb0b13b9cbd6
